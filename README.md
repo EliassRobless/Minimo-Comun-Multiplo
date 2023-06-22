@@ -18,3 +18,8 @@ Algunos ejemplos de valores de entrada y salida esperados son:
 2.- 8, 32 = 32
 
 3.- 15, 8 = 120
+
+Integrantes Equipo 5: Robles Ramirez Angel Elias, Bazan Tehuitzil Oscar Damian, Ortiz Martinez Isai Eliezer, Santiago Guerrero Isaac Alejandro, Solares Velasco Arturo.
+
+
+     
