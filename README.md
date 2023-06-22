@@ -9,3 +9,11 @@ Por el algoritmo de Euclides tenemos la siguiente formula:
 
 El minimo comun multiplo es el resultado de dividir el cociente de a*b entre el m.c.d. de a y b. Por lo que debemos realizar dos operaciones para poder resolver el problema, primero determinar el m.c.d. de a y b para posteriormente poder calcular el m.c.m. 
 
+
+Algunos ejemplos de valores de entrada y salida esperados son:
+
+1.- 12, 16 = 48
+
+2.- 8, 32 = 32
+
+3.- 15, 8 = 120
